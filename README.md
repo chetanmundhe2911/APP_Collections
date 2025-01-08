@@ -2,7 +2,7 @@
 🌈 Image to PDF Converter 📄
 Effortlessly compress images and convert them into a single PDF with a modern and customizable interface!
 
-Image to PDF Converter Interface
+![Image to PDF Converter Interface](./images/interface_screenshot.png)
 
 🚀 Features
 Image Compression :
