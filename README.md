@@ -1,6 +1,7 @@
 
-🌈 Image to PDF Converter 📄
-Effortlessly compress images and convert them into a single PDF with a modern and customizable interface!
+🌈 Image to PDF Converter 
+
+📄 Effortlessly compress images and convert them into a single PDF with a modern and customizable interface!
 
 ![Image to PDF Converter Interface](./interface_screenshot.png)
 
@@ -69,6 +70,7 @@ No need for external tools or software installations.
 We welcome contributions from the community to help improve this project! Feel free to open an issue or create a pull request.
 
 📂 Project Structure
+
   plaintext
   Save
   Copy
