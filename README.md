@@ -1,11 +1,11 @@
 
-🌈 Image to PDF Converter 
+### 🌈 Image to PDF Converter 
 
 📄 Effortlessly compress images and convert them into a single PDF with a modern and customizable interface!
 
 ![Image to PDF Converter Interface](./interface_screenshot.png)
 
-🚀 Features
+### 🚀 Features
 Image Compression :
 Automatically compresses uploaded PNG and JPEG images while maintaining quality.
 Customizable UI :
@@ -20,7 +20,7 @@ Generate and download your PDF instantly.
 Drag-and-Drop :
 Convenient functionality to quickly upload your images.
 🛠️ Installation Instructions
-1. Clone the Repository:
+### 1. Clone the Repository:
 Clone this repository to your local machine:
 
 bash
@@ -31,7 +31,7 @@ Copy
 git clone https://github.com/chetanmundhe2911/image-to-pdf-converter.git
 cd image-to-pdf-converter
 
-2. Install Required Libraries:
+### 2. Install Required Libraries:
 Run the following command to install the necessary Python packages:
 
 bash
@@ -41,7 +41,7 @@ Copy
 pip install -r requirements.txt
 Note : The required packages include streamlit, Pillow, and fpdf. 
 
-▶️ Usage
+### ▶️ Usage
 Running the App:
 Inside the project folder, run the Streamlit app:
 bash
@@ -58,18 +58,18 @@ Generating a PDF:
 Click the Convert to PDF button after uploading your images.
 
 Download the generated PDF directly using the Download PDF button.
-🖼️ Screenshot of the Interface
+### 🖼️ Screenshot of the Interface
 Interface Screenshot
 
-💡 Key Benefits
+### 💡 Key Benefits
 Compress large images to create optimized PDFs.
 User-friendly application designed for everyone.
 No need for external tools or software installations.
 
-🙌 Contributing
+### 🙌 Contributing
 We welcome contributions from the community to help improve this project! Feel free to open an issue or create a pull request.
 
-📂 Project Structure
+### 📂 Project Structure
 
   plaintext
   Save
@@ -89,8 +89,8 @@ We welcome contributions from the community to help improve this project! Feel f
   ├── temp/                      # Temporary storage for uploaded images (auto-cleaned)
   └── interface_screenshot.png   # UI screenshot for the README
 
-📄 License
+### 📄 License
 This project is licensed under the MIT License .
 
-⭐ Acknowledgments
+### ⭐ Acknowledgments
 Thanks to the open-source community for the tools and resources that make projects like this possible!
