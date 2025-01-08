@@ -27,8 +27,9 @@ Save
 Copy
 1
 2
-git clone https://github.com/your-username/image-to-pdf-converter.git
+git clone https://github.com/chetanmundhe2911/image-to-pdf-converter.git
 cd image-to-pdf-converter
+
 2. Install Required Libraries:
 Run the following command to install the necessary Python packages:
 
@@ -47,11 +48,14 @@ Copy
 1
 streamlit run app.py
 Open the URL shown in your terminal (e.g., http://localhost:8501) to access the app.
+
 Uploading Images:
 Drag and drop PNG/JPEG images or use the Browse files button.
 Optionally, customize the background and text colors using the Sidebar .
+
 Generating a PDF:
 Click the Convert to PDF button after uploading your images.
+
 Download the generated PDF directly using the Download PDF button.
 🖼️ Screenshot of the Interface
 Interface Screenshot
@@ -60,27 +64,29 @@ Interface Screenshot
 Compress large images to create optimized PDFs.
 User-friendly application designed for everyone.
 No need for external tools or software installations.
+
 🙌 Contributing
 We welcome contributions from the community to help improve this project! Feel free to open an issue or create a pull request.
 
 📂 Project Structure
-plaintext
-Save
-Copy
-1
-2
-3
-4
-5
-6
-7
-image-to-pdf-converter/
-│
-├── app.py                     # Main Streamlit app file
-├── requirements.txt           # Dependencies
-├── README.md                  # Project documentation (this file)
-├── temp/                      # Temporary storage for uploaded images (auto-cleaned)
-└── interface_screenshot.png   # UI screenshot for the README
+  plaintext
+  Save
+  Copy
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  image-to-pdf-converter/
+  │
+  ├── app.py                     # Main Streamlit app file
+  ├── requirements.txt           # Dependencies
+  ├── README.md                  # Project documentation (this file)
+  ├── temp/                      # Temporary storage for uploaded images (auto-cleaned)
+  └── interface_screenshot.png   # UI screenshot for the README
+
 📄 License
 This project is licensed under the MIT License .
 
