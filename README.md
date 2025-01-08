@@ -58,8 +58,6 @@ Generating a PDF:
 Click the Convert to PDF button after uploading your images.
 
 Download the generated PDF directly using the Download PDF button.
-### 🖼️ Screenshot of the Interface
-Interface Screenshot
 
 ### 💡 Key Benefits
 Compress large images to create optimized PDFs.
