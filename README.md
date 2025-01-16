@@ -23,13 +23,10 @@ Convenient functionality to quickly upload your images.
 ### 1. Clone the Repository:
 Clone this repository to your local machine:
 
-bash
-Save
-Copy
-1
-2
+```bash
 git clone https://github.com/chetanmundhe2911/image-to-pdf-converter.git
 cd image-to-pdf-converter
+```
 
 ### 2. Install Required Libraries:
 Run the following command to install the necessary Python packages:
