@@ -69,16 +69,7 @@ We welcome contributions from the community to help improve this project! Feel f
 
 ### 📂 Project Structure
 
-  plaintext
-  Save
-  Copy
-  1
-  2
-  3
-  4
-  5
-  6
-  7
+```bash
   image-to-pdf-converter/
   │
   ├── app.py                     # Main Streamlit app file
@@ -86,6 +77,7 @@ We welcome contributions from the community to help improve this project! Feel f
   ├── README.md                  # Project documentation (this file)
   ├── temp/                      # Temporary storage for uploaded images (auto-cleaned)
   └── interface_screenshot.png   # UI screenshot for the README
+```
 
 ### 📄 License
 This project is licensed under the MIT License .
