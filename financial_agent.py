@@ -36,7 +36,7 @@ finance_agent=Agent(
 )
 
 multi_ai_agent=Agent(
-    team=[web_search_agent,finance_agent],
+    team=[web_search_agent,finance_agent], # both agetns in list
     instructions=["Always include sources","Use table to display the data"],
     show_tool_calls=True,
     markdown=True,
